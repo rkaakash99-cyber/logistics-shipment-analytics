@@ -1,6 +1,3 @@
-# logistics-shipment-analytics
-End-to-end logistics data analytics project using MySQL, Python, and Power BI
-
 # Logistics Shipment Performance Analytics
 
 An end-to-end data analytics project analyzing shipment performance 
